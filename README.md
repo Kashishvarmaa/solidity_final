@@ -1,4 +1,4 @@
-# MyToken
+# MyToken-ERC20Lite
 
 MyToken is a simple Solidity smart contract that demonstrates the basic functionality of token management. This contract allows users to **mint** and **burn** tokens, adjusting their balance accordingly. It serves as a great starting point for those new to Solidity and Ethereum smart contract development.
 
